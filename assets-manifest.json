@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/assets/index-Cjj7JPLC.js",
-    "main.css": "/assets/index-CsM8ZvIi.css",    
+    "main.js": "/landing-page-with-react/assets/index-Cjj7JPLC.js",
+    "main.css": "/landing-page-with-react/assets/index-CsM8ZvIi.css",    
   },
   "entrypoints": [
-    "/assets/index-Cjj7JPLC.js",
-    "/assets/index-CsM8ZvIi.css",    
+    "/landing-page-with-react/assets/index-Cjj7JPLC.js",
+    "/landing-page-with-react/assets/index-CsM8ZvIi.css",    
   ]
 }
