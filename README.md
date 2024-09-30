@@ -24,7 +24,7 @@ This project is a responsive landing page built with React, utilizing modern lib
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-react.git
+   git clone https://github.com/gourav4333f/landing-page-with-react
    ```
 2. Navigate to the project directory:
    ```bash
